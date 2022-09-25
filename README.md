@@ -1,8 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Selin Ulusay.</h1>
+<h3 align="center">A junior at Bilkent University Department of Mathematics</h3>
 
-<!--
-**selinulusay/selinulusay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Java.**
 
-- ✨ Hi there! I am Selin Ulusay.
-- 🔭 I’m a senior at Bilkent University Department of Mathematics. 
-- 🌱 I’m currently learning Java.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
